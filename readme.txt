@@ -2,7 +2,7 @@
 Contributors: adresult
 Tags: suche, ricardo
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 4.3
 Stable tag: 4.3
 License: --
 License URI: --
