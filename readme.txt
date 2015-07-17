@@ -7,11 +7,11 @@ Stable tag: 4.3
 License: --
 License URI: --
 
-This plugin adds a sidebar widget to you blog or website which provides users a search on ricardo with your Tradedoubler ID
+This plugin adds a sidebar widget to your blog or website which provides users a search on ricardo.ch with your Tradedoubler ID
 
 == Description ==
 
-This plugin adds a sidebar widget to you blog or website which provides users a search on ricardo with your Tradedoubler ID
+This plugin adds a sidebar widget to your blog or website which provides users a search on ricardo.ch with your Tradedoubler ID
 
 == Installation ==
 
